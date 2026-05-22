@@ -40,7 +40,7 @@ None as of yet
 ### Term 2
 
 - Course Dev Primary: [WEBD1003](https://github.com/NAIT-Digital-Design/WEBD1003)
-  - Course Organization: [TO BE CREATED BY TOM](DO_THIS_TOM)
+  - Course Organization: [NAIT-WEBD1003](https://github.com/NAIT-WEBD1003)
 
 ### Term 3
 
