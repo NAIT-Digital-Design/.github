@@ -45,7 +45,7 @@ None as of yet
 ### Term 3
 
 - Course Dev Primary: [WEBD2002](https://github.com/NAIT-Digital-Design/WEBD2002)
-  - Course Organization: [TO BE CREATED BY TOM](DO_THIS_TOM)
+  - Course Organization: [NAIT-WEBD2002](https://github.com/NAIT-WEBD2002)
 - Course Dev Primary: [WEBD2006](https://github.com/NAIT-Digital-Design/WEBD2006)
   - Course Organization: [NAIT-WEBD2006](https://github.com/NAIT-WEBD2006)
 
